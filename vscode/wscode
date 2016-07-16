@@ -1,0 +1,12 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily": "Source Code Pro for Powerline",
+    "editor.glyphMargin": true,
+    "editor.rulers": [80, 120, 160],
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": true,
+    "editor.wrappingColumn": 120,
+    "editor.wrappingIndent": "indent",
+    "editor.quickSuggestionsDelay": 50
+}
